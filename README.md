@@ -11,9 +11,9 @@
 
 ### Units
 
-1. [Getting Started with App Development](Unit1.md)
-2. [Introduction to UIKit](Unit2.md)
-3. [Navigation and Workflows](Unit3.md)
+1. [Getting Started with App Development](Descriptions/Unit1.md)
+2. [Introduction to UIKit](Descriptions/Unit2.md)
+3. [Navigation and Workflows](Descriptions/Unit3.md)
 
 ### Guided Projects
 1. Light
