@@ -6,35 +6,47 @@
 * Hidden Talent: solve a Rubik's Cube in under 2 minutes
 
 ## CSC 118 - Swift Fundamentals
-* Institution: Durham Technical Community College
-* Textbook: Develop in Swift Fundamentals Xcode 15
+* Institution: [Durham Technical Community College](https://www.durhamtech.edu/)
+* Textbook: [Develop in Swift Fundamentals Xcode 15](https://books.apple.com/us/book/develop-in-swift-fundamentals/id6468967906)
 
-### Unit 1: Getting Started with App Development 
+### Unit 1: Getting Started with App Development
+#### Swift Lessons
 * 1.2 Introduction to Swift and Playgrounds 
 * 1.3 Constants, Variables, and Data Types 
 * 1.4 Operators 
-* 1.5 Control Flow 
+* 1.5 Control Flow
+#### SDK Lessons
 * 1.6 Xcode 
 * 1.7 Building, Running, and Debugging an App 
 * 1.8 Documentation 
 * 1.9 Interface Builder Basics
-* **Guided Project 1: Light**
+#### Guided Project 1: Light
 
-### Unit 2
+### Unit 2: Introduction to UIKit
+#### Swift Lessons
 * 2.2 Strings 
 * 2.3 Functions 
 * 2.4 Structures
 * 2.5 Classes and Inheritance 
 * 2.6 Collections 
-* 2.7 Loops 
+* 2.7 Loops
+#### SDK Lessons
 * 2.8 Introduction to UIKit 
 * 2.9 Displaying Data 
 * 2.10 Controls in Action 
 * 2.11 Auto Layout and Stack Views
-* **Guided Project 2: Apple Pie**
+#### Guided Project 2: Apple Pie
 
-
-
-
-### Unit 3
-* 
+### Unit 3: Navigation and Workflows
+#### Swift Lessons
+* Optionals
+* Type Casting and Inspection
+* Guard
+* Constant and Variable Scope
+* Enumerations
+#### SDK Lessons
+* Segues and Navigation Controllers
+* Tab Bar Controllers
+* View Controller Life Cycle
+* Simple Workflows
+#### Guided Project 3: Personality Test
