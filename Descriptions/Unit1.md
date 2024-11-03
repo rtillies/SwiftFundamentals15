@@ -2,7 +2,8 @@
 * Institution: [Durham Technical Community College](https://www.durhamtech.edu/)
 * Textbook: [Develop in Swift Fundamentals Xcode 15](https://books.apple.com/us/book/develop-in-swift-fundamentals/id6468967906)
 
-Home | Unit 1 | Unit 2 | Unit 3
+#### Navigation
+* [Home](../README.md) | [Unit 1](Unit1.md) | [Unit 2](Unit2.md) | [Unit 3](Unit3.md)
 
 ### Unit 1: Getting Started with App Development
 #### Swift Lessons
